@@ -1,0 +1,21 @@
+body , html{
+    height: 100%;
+    background-color: #eff0f2;
+}
+
+h1{
+    text-align: center;
+    background-color: #ddd;
+    color: #34aaa3;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0 5px #ddd;
+
+}
+canvas{
+    background-color: #004056;
+    height: 90%;
+    width: 100%;
+    border-radius: 3px;
+}
